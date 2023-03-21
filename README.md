@@ -1,3 +1,3 @@
-#master branch
+#secure branch
 
-This is the master branch
+This is the secure branch
